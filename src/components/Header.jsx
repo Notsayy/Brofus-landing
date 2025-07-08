@@ -6,7 +6,7 @@ export default function Header() {
         <a href="#features" className="text-gray-700 hover:text-black transition">Fonctionnalités</a>
         <a href="#about" className="text-gray-700 hover:text-black transition">À propos</a>
         <a
-          href="http://localhost:5173/"
+          href="http://brofus.me/"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-black text-white px-5 py-2 rounded-md hover:bg-gray-900 font-semibold"

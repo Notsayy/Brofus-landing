@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Notsayy.github.io/Brofus-landing/",
+  "homepage": "http://brofus.me/Brofus-landing/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
