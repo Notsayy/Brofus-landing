@@ -8,7 +8,7 @@ Landing page moderne pour le projet **Brofus** (React + Vite + Tailwind CSS).
 - Appel à la communauté pour tester et améliorer le site
 
 ## Démo
-Retrouvez la landing page en ligne sur : [https://<ton-utilisateur>.github.io/<ton-repo>/](https://<ton-utilisateur>.github.io/<ton-repo>/)
+Retrouvez la landing page en ligne sur : [http://brofus.me/Brofus-landing/](http://brofus.me/Brofus-landing/)
 
 ## Fonctionnalités principales
 - Communauté active
