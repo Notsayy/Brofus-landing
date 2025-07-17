@@ -1,8 +1,8 @@
 export default function About() {
   return (
-    <section id="about" className="py-20 bg-gray-50">
+    <section id="about" className="py-20 bg-white">
       <div className="max-w-2xl mx-auto px-4 text-center">
-        <h2 className="text-3xl font-bold mb-6">À propos</h2>
+        <h2 className="text-3xl font-bold mb-6 text-gray-900">À propos</h2>
         <p className="mb-4 text-gray-700">Projet personnel, inspiré par l’envie d'aider les joueurs de Dofus a avoir une expérience de jeu la plus agréable possible.</p>
         <div className="mb-2 text-gray-600">Auteur : <span className="font-semibold">Notsay</span></div>
         <a
