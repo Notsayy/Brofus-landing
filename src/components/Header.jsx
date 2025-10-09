@@ -45,7 +45,7 @@ export default function Header() {
             À propos
           </a>
           <a
-            href="http://brofus.me/"
+            href="http://www.brofus.me/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-black text-white px-5 py-2 rounded-md hover:bg-gray-900 font-semibold"
