@@ -1,0 +1,14 @@
+# Ignore node_modules and other unnecessary files
+node_modules/
+*.log
+npm-debug.log*
+
+# Ignore build output except on gh-pages
+/dist
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
